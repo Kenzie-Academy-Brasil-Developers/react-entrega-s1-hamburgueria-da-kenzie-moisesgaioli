@@ -1,0 +1,38 @@
+.card {
+    display: flex;
+    justify-content: center;
+    width: 300px;
+    height: 250px;
+    margin-bottom: 50px;
+}
+
+.product {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 150px;
+    padding: 10px;
+    background-color: #0315e4;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 20px;
+    color: #FFFF;
+    font-size: 20px;
+}
+
+.btn {
+    padding: 10px;
+    border: none;
+    border-radius: 10px;
+    
+    font-weight: 600;
+}
+
+.buy {
+    background-color: orange;
+}
+
+.remove {
+    background-color: red;
+    color: #FFFF;
+}

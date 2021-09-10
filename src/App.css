@@ -1,0 +1,50 @@
+
+.main-container {
+  background-color: #f3ea7f;
+}
+
+.main-title {
+  text-align: center;
+  padding: 30px;
+  font-size: 40px;
+  color: #0909a0;
+  font-family: monospace;
+}
+
+.menu-title {
+  text-align: center;
+  font-size: 30px;
+  font-family: monospace;
+  margin-bottom: 30px;
+  margin-top: 50px;
+}
+
+.container-input {
+  position: absolute;
+  right: 10%;
+}
+
+.menu-input {
+  font-size: 15px;
+  padding: 5px;
+  margin-right: 10px;
+}
+
+.btn-input {
+  padding: 5px;
+  width: 80px;
+  font-size: 15px;
+}
+
+.cart-title {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 30px;
+  border-top: 1px solid;
+  padding: 10px;
+}
+
+.cart-total {
+  text-align: center;
+  padding: 50px;
+}
